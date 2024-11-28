@@ -10,6 +10,8 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+![WhatsApp Image 2024-11-28 at 21 03 37_df4a5ac3](https://github.com/user-attachments/assets/cbea4a4f-6ad7-4c2a-b945-5af846853fc3)
+
 1.Alumni Registration & Profile Management:
 Web & Mobile App Access: Alumni can easily register on the platform through intuitive processes on both web and mobile apps. They can update their personal details, including educational background, career information, and achievements, to keep their profiles up-to-date.
 2.Networking Hub:
